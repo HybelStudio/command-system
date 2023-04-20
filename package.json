@@ -1,0 +1,15 @@
+{
+    "name": "com.hybelstudio.command-system",
+    "displayName": "Command System",
+    "description": "A flexible implementation of the Command Pattern.",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "dependencies": {
+        "com.hybelstudio.extension-methods": "1.0.0",
+        "com.hybelstudio.generics": "1.0.0"
+    },
+    "author": {
+        "name": "Brage Ingebrigtsen",
+        "email": "hybelstudio@gmail.com"
+    }
+}
